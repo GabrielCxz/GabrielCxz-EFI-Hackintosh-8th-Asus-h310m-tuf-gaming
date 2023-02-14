@@ -1,4 +1,4 @@
-# GabrielCxz-EFI-Hackintosh-8th-Asus-h310m-t# EFI-Hackintosh-8th-Asus-h310m-tuf-gaming
+EFI-Hackintosh-8th-Asus-h310m-t# EFI-Hackintosh-8th-Asus-h310m-tuf-gaming
 
 	º Opencore 0.8.9
 	º Ventura
@@ -60,4 +60,4 @@ Configurações na BIOS
 º Ativado
 
   	º Intel Virtualization
-uf-gaming
+
